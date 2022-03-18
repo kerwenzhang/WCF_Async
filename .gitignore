@@ -6,3 +6,4 @@ Output/*
 Server/.vs/*
 Server/bin/*
 Server/obj/*
+Client/bin/*

@@ -7,3 +7,5 @@ Server/.vs/*
 Server/bin/*
 Server/obj/*
 Client/bin/*
+Client2/bin/*
+Client2/obj/*
